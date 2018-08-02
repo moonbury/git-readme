@@ -3,7 +3,7 @@
 #### For the first time, clone(get) the source files.
 git clone <url>
 
-#### If there is some udpates from the branch, pull (fetch+merage)
+#### If there is some udpates from the branch, pull (fetch+merge)
 git pull
 
 #### If your are done with the bugs fix or new features, then push your files to main, there is a temporay local repo, you need to add it and commit and push.
