@@ -50,5 +50,11 @@ git config user.name "moonbury"
 git config user.email "moonbury@hotmail.com"
 ```
 
+#### For simiplist, you may add the .gitignore file, see [ignore file template](
+https://github.com/github/gitignore/blob/master/Node.gitignore)
+```
+touch .gitignore
+```
+
 #### Check out this post if you think you understand well.
 [11 Painful Git Interview Questions You Will Cry On](https://dev.to/aershov24/11-painful-git-interview-questions-you-will-cry-on-1n2g?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
