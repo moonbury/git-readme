@@ -3,6 +3,14 @@
 #### For the first time, clone(get) the source files.
 git clone <url>
 
+### If I create a project locally, then create a project in github
+echo "# README" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin <url>
+git push -u origin master
+
 #### If there is some udpates from the branch, pull (fetch+merge)
 git pull
 
