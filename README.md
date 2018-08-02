@@ -50,5 +50,5 @@ git config user.name "moonbury"
 git config user.email "moonbury@hotmail.com"
 ```
 
-#### Check out this post if you think understand well.
+#### Check out this post if you think you understand well.
 [11 Painful Git Interview Questions You Will Cry On](https://dev.to/aershov24/11-painful-git-interview-questions-you-will-cry-on-1n2g?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
