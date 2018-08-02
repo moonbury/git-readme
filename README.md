@@ -9,7 +9,7 @@ git clone <url>
 ```
 echo "# README" >> README.md
 git init
-git add README.md
+git add *
 git commit -m "first commit"
 git remote add origin <url>
 git push -u origin master
