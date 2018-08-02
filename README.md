@@ -3,7 +3,7 @@
 #### For the first time, clone(get) the source files.
 git clone <url>
 
-### If I create a project locally, then create a project in github
+#### If I create a project locally, then create a project in github
 echo "# README" >> README.md
 git init
 git add README.md
