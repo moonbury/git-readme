@@ -50,8 +50,7 @@ git config user.name "moonbury"
 git config user.email "moonbury@hotmail.com"
 ```
 
-#### For simiplist, you may add the .gitignore file, see [ignore file template](
-https://github.com/github/gitignore/blob/master/Node.gitignore)
+#### For simiplist, you may add the .gitignore file, see [ignore file template](https://github.com/github/gitignore/blob/master/Node.gitignore)
 ```
 touch .gitignore
 ```
