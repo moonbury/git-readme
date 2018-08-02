@@ -20,4 +20,4 @@ git clean -fdx
 git status
 
 #### Check out this post if you think understand well.
-https://dev.to/aershov24/11-painful-git-interview-questions-you-will-cry-on-1n2g?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+[11 Painful Git Interview Questions You Will Cry On](https://dev.to/aershov24/11-painful-git-interview-questions-you-will-cry-on-1n2g?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
