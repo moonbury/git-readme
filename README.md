@@ -1,4 +1,4 @@
-## Common commands for Git I used for development
+## Common Git commands I used in development
 
 #### For the first time, clone(get) the source files.
 ```
@@ -37,6 +37,11 @@ git clean -fdx
 #### For anytime, you can check the status.
 ```
 git status
+```
+#### If need to reorganize files or folders.
+```
+git mv <file1> <file2>
+git rm <file>
 ```
 
 #### Remember to set your username and email.
