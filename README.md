@@ -59,5 +59,20 @@ For simiplist, you may add the .gitignore file, see [ignore file template](https
 touch .gitignore
 ```
 
+Create a Development branch & work on the development branch
+```
+git checkout -b develop master
+git checkout develop
+```
+When done, merge back to master branch
+```
+git checkout master
+git merge --no-ff develop
+git branch -d develop
+git push origin develop
+```
+
 Check out this post if you think you understand well.
 [11 Painful Git Interview Questions You Will Cry On](https://dev.to/aershov24/11-painful-git-interview-questions-you-will-cry-on-1n2g?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+More information can be found [here](https://nvie.com/posts/a-successful-git-branching-model/)
